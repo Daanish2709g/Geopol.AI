@@ -59,17 +59,3 @@ npm run dev:happy      # happy.worldmonitor.app
 npm run typecheck        # Type checking
 npm run build:full       # Production build
 ```
-
----
-
-## License
-
-**AGPL-3.0** for non-commercial use. **Commercial license** required for any commercial use.
-
-| Use Case | Allowed? |
-|----------|----------|
-| Personal / research / educational | Yes |
-| Self-hosted (non-commercial) | Yes, with attribution |
-| Fork and modify (non-commercial) | Yes, share source under AGPL-3.0 |
-| Commercial use / SaaS / rebranding | Requires commercial license |
-
